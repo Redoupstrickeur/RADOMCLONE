@@ -9,7 +9,7 @@ pip install rich
 
 rm -rf PUBLIC_CLONE
 
-git clone https://github.com/https://github.com/Redoupstrickeur/RADOMCLONE
+git clone ttps://github.com/Redoupstrickeur/RADOMCLONE
 
 cd  RADOMCLONE
 
