@@ -8,7 +8,7 @@ pip install futures
 
 pip install rich
 
-rm -rf PUBLIC_CLONE
+rm -rf RADOMCLONE
 
 git clone ttps://github.com/Redoupstrickeur/RADOMCLONE
 
